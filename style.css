@@ -1,0 +1,62 @@
+body{
+    
+}
+
+#main {
+    text-align: center;
+}
+
+#title{
+
+}
+
+#img-div{  
+    padding-top: 50px;
+    background: gray;
+}
+
+#image{
+    max-width: 90%;
+    height: auto;
+    align-content: center;
+
+}
+
+#img-caption{
+
+}
+
+section{
+    display: block;
+}
+
+#headline{
+    margin: 50px 0;
+    text-align: center;
+
+}
+
+h2 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#tribute-link{
+
+}
+
