@@ -31,15 +31,13 @@ p {
 }
 
 #image{
+    display: inline;
     position: relative;
     max-width: 90%;
     height: auto;
-    align-content: center;
-
 }
 
-#img-caption{
-    
+#img-caption{    
     margin-top: 20px;
     font-weight: bold;
     color: #FAED26;
