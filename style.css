@@ -1,21 +1,37 @@
 body{
-    
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #main {
+    background: #9D8D8F;
     text-align: center;
+    padding: 15px;
+    margin: 30px 8px 30px 8px;
+    border-radius: 15px;
 }
 
 #title{
+    color: #FAED26;
+}
+
+p {
+    font-weight: bold;
+    max-width: 550px;
+    margin: 0px auto 20px auto;
 
 }
 
 #img-div{  
-    padding-top: 50px;
-    background: gray;
+    border-radius: 15px;
+    position: relative;
+    padding: 50px 0px 50px 0px;
+    margin: 0px 75px;
+    background: #222629;
 }
 
 #image{
+    position: relative;
     max-width: 90%;
     height: auto;
     align-content: center;
@@ -23,6 +39,10 @@ body{
 }
 
 #img-caption{
+    
+    margin-top: 20px;
+    font-weight: bold;
+    color: #FAED26;
 
 }
 
@@ -31,7 +51,7 @@ section{
 }
 
 #headline{
-    margin: 50px 0;
+    padding: 20px;
     text-align: center;
 
 }
@@ -47,16 +67,21 @@ h2 {
 }
 
 ul{
-    display: block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
+    max-width: 700px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
 }
 
-#tribute-link{
+#tribute-link:link{
+    color: #46344E;
+}
 
+#tribute-link:visited{
+    color: #46344E;
+}
+
+#tribute-link:hover {
+    color: #FAED26;
 }
 
