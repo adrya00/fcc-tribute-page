@@ -4,7 +4,7 @@ body{
 }
 
 #main {
-    background: #F3E0DC;
+    background: #9D8D8F;
     text-align: center;
     padding: 15px;
     margin: 30px 8px 30px 8px;
@@ -12,7 +12,7 @@ body{
 }
 
 #title{
-    color: #46344E;
+    color: #FAED26;
 }
 
 p {
@@ -26,15 +26,17 @@ p {
     border-radius: 15px;
     position: relative;
     padding: 50px 0px 50px 0px;
-    margin: 0px 75px;
+    margin: 0px auto;
     background: #222629;
 }
 
 #image{
-    display: inline;
-    position: relative;
+    display: block;
     max-width: 90%;
+    width: 100%;
     height: auto;
+    margin: 0px auto;
+
 }
 
 #img-caption{    
